@@ -1,117 +1,163 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Saif%20Shabsug&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-###
-
-<p align="left">👋 Hi there! My name is Saif A software developer passionate about tech and innovation 🌟.<br> I work on diverse projects, including web, app development, and Python programming 💻</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png?raw=true"  />
-</div>
-
-###
-
-<p align="left">👔 Entrepreneur, Business Consultant & Digital Strategist <br>📊 SME's Digital Business Transformation Expert<br>📲 Full Stack Dev<br>✨ Transform & Elevate Your Business with Innovative Digital Solutions<br><br>🔐 A leader in Cybersecurity, skilled Web Developer, proficient in Python Programming, and an AI enthusiast with over 10 years of in-depth experience. Specializing in protecting networks and servers, developing websites, creating machine learning models, and managing databases. I'm here to turn your projects into an amazing reality✨.<br><br>💵 As an expert in business strategies and a financial market advisor, I guide you through the ever-changing world of finance. Offering accurate financial analyses, Forex signals, Metatrader admin services, risk management strategies, and technical analysis training. Let’s get your finances in order and guide them towards success🚀.<br><br>In my field of expertise, 🛎️<br><br>I offer a comprehensive range of services: <br><br>✔️ Digital Marketing <br>✔️ Technical Support <br>✔️ Web Development<br>✔️ Custom Software Development <br>✔️ Social Media Management <br>✔️ WordPress Website Development <br>✔️ Personal Branding<br>✔️ Virality Campaigns <br>✔️ Reputation Management <br>✔️ Financial Analysis<br>✔️ IT Consulting <br>✔️ Financial Consulting <br>✔️ Business Consulting<br>✔️Remote Desktop Technical Support<br><br><br>#--Why Me?--#<br><br>💡 Extensive Experience: Over a decade of experience across multiple domains including Cybersecurity, Web Development, Programming, and Artificial Intelligence.<br><br>🌍 Exceptional Business Consultant: Deep expertise extending to business consultations, marketing, hosting, and trading.<br><br>📈 Strong Marketing Vision: Capable of unlocking your business growth to exceed $100K in less than a year.<br><br>🏆 Among the Top 1% in the Field: Growing your fortune with me is not just a goal but a tangible reality.<br><br>If you are looking for someone who can secure your digital life with expertise, achieve business success with strategy, and guide market decisions with insights, look no further. Click FOLLOW to unlock the doors to your business growth and start an unforgettable journey of success with me. 🚀💼<br><br><br>Official Website:<br>🎯 https://shabsug.com</p>
-
-###
-
-<h2 align="left">I Familiar with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ifttt/ifttt-original.svg" height="40" alt="ifttt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-</div>
-
-###
-
-<h2 align="left">My Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/saifshabsug/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%7C+10%2B+Years;Cybersecurity+Expert+%7C+AI+Enthusiast;Digital+Strategist+%7C+Entrepreneur" alt="Typing SVG" />
   </a>
-  <a href="https://Shabsug.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-Welcome!-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/>
+  &nbsp;
+  <a href="https://github.com/saifshabsug?tab=followers">
+    <img src="https://img.shields.io/github/followers/saifshabsug?style=for-the-badge&color=6C63FF&labelColor=1a1b27" alt="Followers"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  &nbsp;
+  <a href="https://github.com/saifshabsug?tab=repositories">
+    <img src="https://img.shields.io/badge/Repos-Public-6C63FF?style=for-the-badge&labelColor=1a1b27" alt="Repos"/>
   </a>
-</div>
+</p>
 
-###
+---
 
-###
+## 🧑‍💻 About Me
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saifshabsug/count.svg?"  />
-</div>
+> 🔐 Cybersecurity Leader &nbsp;|&nbsp; 💻 Full Stack Developer &nbsp;|&nbsp; 🤖 AI Enthusiast &nbsp;|&nbsp; 📊 Business Strategist
 
-###
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- 🏢 **Entrepreneur** & Digital Business Transformation Expert
+- 🌍 **10+ years** of experience across Cybersecurity, Web Dev & AI
+- 🛡️ Specializing in **network security** & **server protection**
+- 🧠 Building **ML models** and intelligent automation systems
+
+</td>
+<td width="50%" valign="top">
+
+- 💹 **Financial Market Advisor** — Forex & Technical Analysis
+- 🎯 Helping SMEs achieve **$100K+** revenue in under a year
+- 🏆 **Top 1%** in my field — turning vision into reality
+- ✨ Transforming businesses with innovative digital solutions
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://shabsug.com">
+    <img src="https://img.shields.io/badge/🌐_Official_Website-shabsug.com-6C63FF?style=for-the-badge&labelColor=1a1b27" alt="Website"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,php,bash,java,c,cpp&perline=10" alt="Languages"/>
+  </a>
+</p>
+
+### 🧩 Frameworks & Libraries
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,django,flask,laravel,tailwind,bootstrap&perline=10" alt="Frameworks"/>
+  </a>
+</p>
+
+### 🗄️ Databases & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,supabase,docker,git,github,linux&perline=10" alt="Tools"/>
+  </a>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,netlify,cloudflare,nginx&perline=7" alt="Cloud"/>
+  </a>
+</p>
+
+### 🛡️ Cybersecurity & AI
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,tensorflow,pytorch,opencv&perline=4" alt="Security & AI"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saifshabsug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=1a1b27" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saifshabsug&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifshabsug&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=saifshabsug&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifshabsug&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=6C63FF&line=6C63FF&point=fff" alt="Activity Graph"/>
+</p>
+
+---
+
+## 💭 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/saifshabsug">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/saifshabsug">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/saifshabsug">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;
+  <a href="https://youtube.com/@saifshabsug">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>&nbsp;
+  <a href="https://t.me/saifshabsug">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>&nbsp;
+  <a href="mailto:saif@shabsug.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://shabsug.com">
+    <img src="https://img.shields.io/badge/Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+</p>
